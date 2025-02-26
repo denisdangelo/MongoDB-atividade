@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-atividade",
+  "version": "1.0.0",
+  "description": "Banco de dados não relacional para  atividade",
+  "main": "main.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisdangelo/MongoDB-atividade.git"
+  },
+  "author": "Denis DAngelo da Silveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denisdangelo/MongoDB-atividade/issues"
+  },
+  "homepage": "https://github.com/denisdangelo/MongoDB-atividade#readme",
+  "dependencies": {
+    "mongoose": "^8.10.2"
+  }
+}
